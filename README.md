@@ -1,4 +1,4 @@
-# Two Factor Oauth for api.immobilienscout24.de (German Real Estate)
+# Two Factor Oauth for api.immobilienscout24.de (German Real Estate Portal)
 
 This is an experimental R library for authenticating with the immobelienscout24.de Sandbox api.
 
